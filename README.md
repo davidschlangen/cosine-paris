@@ -4,7 +4,7 @@
 
 Material for the "Concepts, Composition, and Conversational Coordination" Lecture Series, Paris 2019.
 
-This repository collects the slides (and other material) for my 2019 Paris lectures. References to the cited literature in the slides.
+This repository collects the slides (and other material) for my 2019 Paris lectures. References to the cited literature in the slides. [Videos of the lectures](http://www.labex-efl.com/wordpress/2019/11/14/conference-video-david-schlangen-concepts-composition-and-conversational-coordination-semantic-competence-for-situated-interaction/) are now online.
 
 Related material can be found here:
 
