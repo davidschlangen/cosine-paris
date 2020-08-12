@@ -14,4 +14,4 @@ Related material can be found here:
 The corpus examples can be found in the ["Semantics with Pictures"](https://github.com/clp-research/sempix) repository. The code for preprocessing the corpora in the [`clp-vision`](https://github.com/clp-research/clp-vision) repository. It assumes that you have downloaded all the original corpora, which is a lot of stuff and takes a lot of effort. If you want to try out these things, you can get access from me to a JupyterHub installation in an environment where all this data and preprocessing results are available.
 
 
-**Update August 2020:** You can find a slightly more cleaned up version of this in my [semdial 2020 paper](Papers/Schlangen-semdial2020.pdf), of which you can also find here [the slides](Slides/sitdrp_semdial2020.pdf), and even [the recorded talk](semdial2020_talk.mov).
+**Update August 2020:** You can find a slightly more cleaned up version of this in my [semdial 2020 paper](Papers/Schlangen-semdial2020.pdf), of which you can also find here [the slides](Slides/sitdrp_semdial2020.pdf), and even [the recorded talk](Media/semdial2020_talk.mov).
